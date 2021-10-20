@@ -6,3 +6,5 @@ Naver News Analysis
 
 # Result
 ![NaverNewsAnalysis](https://user-images.githubusercontent.com/88410343/138067853-d7ed49d4-0df2-49a6-a503-f99d8f2e7782.png)
+
+cr.https://news.naver.com/
